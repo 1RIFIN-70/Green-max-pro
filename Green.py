@@ -1,2 +1,2 @@
 import axff
-axff._KAFI_()
+axff.___KAFI___()
