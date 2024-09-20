@@ -1,2 +1,2 @@
-from axff import _KAFI_
-_KAFI_()
+from axff import axff
+axff()
