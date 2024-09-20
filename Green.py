@@ -1,2 +1,2 @@
-import as
-as.___KAFI___()
+import axff
+axff._KAFI_()
