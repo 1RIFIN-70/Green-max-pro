@@ -1,2 +1,1 @@
-import axff
-axff.ARIFIN()
+import All
